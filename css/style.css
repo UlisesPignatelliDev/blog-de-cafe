@@ -192,7 +192,7 @@ img {
      margin-top: 4rem;
  }
  
- /** Estislo de pagina Sobre Nosotros **/
+ /** Estilo de pagina Sobre Nosotros **/
  @media (min-width: 768px) {
      .sobre-nosotros {
          display: grid;
@@ -201,7 +201,7 @@ img {
      }
  }
  
- /** Cursos **/
+ /** Estilo de pagina Cursos **/
  .curso {
      padding: 3rem 0;
      border-bottom: 1px solid var(--gris);
